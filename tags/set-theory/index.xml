@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Set Theory on Sleeba&#39;s Shell Scripts</title>
+    <link>https://joelsleeba.github.io/blog/tags/set-theory/</link>
+    <description>Recent content in Set Theory on Sleeba&#39;s Shell Scripts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joel Sleeba</copyright>
+    <lastBuildDate>Wed, 21 Jul 2021 11:33:52 +0530</lastBuildDate><atom:link href="https://joelsleeba.github.io/blog/tags/set-theory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equinumerosity in Functional Spaces</title>
+      <link>https://joelsleeba.github.io/blog/posts/equinumerosity-in-functional-spaces/</link>
+      <pubDate>Wed, 21 Jul 2021 11:33:52 +0530</pubDate>
+      
+      <guid>https://joelsleeba.github.io/blog/posts/equinumerosity-in-functional-spaces/</guid>
+      <description>Question: If $A_1 =_c A_2$ and $B_1 =_c B_2$ prove that $(A_1 \to B_1 ) =_c (A_2 \to B_2 )$. Or in other words If the cardinality of $A_1$ and $B_1$ are equal to that of $A_2$ and $B_2$ respectively, then the cardinality of the set of functions from $A_1 \to B_1$ is equal to that of the set of functions from $A_2 \to B_2$ (from Notes on Set Theory, Yiannis Moschovakis, Chapter 2, Exercise 2.</description>
+    </item>
+    
+  </channel>
+</rss>
