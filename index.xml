@@ -14,7 +14,7 @@
       <pubDate>Sun, 19 Jun 2022 15:21:58 +0530</pubDate>
       
       <guid>https://joelsleeba.github.io/blog/gallery/</guid>
-      <description>.jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-665288c8761d48eb3366c37954243edc-0&#34;); let swipeboxInstance = null; gallery.</description>
+      <description>.jg-entry img { transition: transform .25s ease-in-out !important; } .jg-entry img:hover { transform: scale(1.1); }                                      if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;</description>
     </item>
     
     <item>
